@@ -1,8 +1,7 @@
 # IBM Watson Assistant Chatbot 🤖
 
-> AI-powered customer support chatbot developed using **IBM Watson Assistant** and **IBM Cloud** during the **IBM Generative AI Summer Training**.
+ AI-powered customer support chatbot developed using **IBM Watson Assistant** and **IBM Cloud** during the **IBM Generative AI Summer Training**.
 
----
 
 # 📌 Overview
 
